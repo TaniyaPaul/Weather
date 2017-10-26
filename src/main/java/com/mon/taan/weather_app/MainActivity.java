@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
     private Context ApplicationContext;
     Handler mHandler;
     Weather weather = new Weather();
-    String Location = "moscow,BR";
+    String Location = "kolkata,IN";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
