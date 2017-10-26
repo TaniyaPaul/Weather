@@ -27,6 +27,9 @@ import Data.JSONWeatherParser;
 import Data.WeatherHttpClient;
 import Model.Weather;
 
+/**
+ * Created by taniya on 28-07-2017.
+ */
 
 public class MainActivity extends AppCompatActivity {
     private TextView cityName;
@@ -43,6 +46,7 @@ public class MainActivity extends AppCompatActivity {
     Handler mHandler;
     Weather weather = new Weather();
     String Location = "kolkata,IN";
+	String API_KEY = "f46c17dd5f352fbccb1db6115b893baf";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

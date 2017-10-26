@@ -13,7 +13,7 @@ import java.net.URL;
 import Util.Utils;
 
 /**
- * Created by Tapajita on 28-07-2017.
+ * Created by taniya on 28-07-2017.
  */
 
 abstract public class WeatherHttpClient {

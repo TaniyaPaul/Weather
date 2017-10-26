@@ -1,7 +1,7 @@
 package Model;
 
 /**
- * Created by Tapajita on 28-07-2017.
+ * Created by taniya on 28-07-2017.
  */
 
 public class Temperature {
